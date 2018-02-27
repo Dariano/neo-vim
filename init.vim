@@ -29,7 +29,6 @@ nnoremap <leader>ev :vsplit ~/.config/nvim/init.vim<cr>
 nnoremap <leader>sv :source ~/.config/nvim/init.vim<cr>
 nnoremap <c-p> :Files<cr>
 nnoremap <c-f> :Ag<space>
-map <C-n> :NERDTreeToggle<CR>
 nmap ,m :NERDTreeToggle<CR>
 
 let g:UltiSnipsEditSplit = 'vertical'
